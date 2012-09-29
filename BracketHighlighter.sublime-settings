@@ -1,0 +1,10 @@
+{
+	// Scope? (Defined in theme files.)
+	// Examples: (keyword|string|number)
+	"quote_scope" : "brackethighlight",
+	"curly_scope" : "brackethighlight",
+	"round_scope" : "brackethighlight",
+	"square_scope": "brackethighlight",
+	"angle_scope" : "brackethighlight",
+	"tag_scope"   : "brackethighlight"
+}

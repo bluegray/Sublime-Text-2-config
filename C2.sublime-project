@@ -1,0 +1,68 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".lein*",
+				".#*",
+				"*.sublime-workspace",
+				".emacs*"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				"checkouts"
+			],
+			"path": "/home/bluegray/devel/C2"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".lein*",
+				".#*",
+				"*.sublime-workspace",
+				".emacs*"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				"checkouts"
+			],
+			"path": "/home/bluegray/devel/Core"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".lein*",
+				".#*",
+				"*.sublime-workspace",
+				".emacs*"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				"checkouts"
+			],
+			"path": "/home/bluegray/devel/Press"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".lein*",
+				".#*",
+				"*.sublime-workspace",
+				".emacs*"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				"checkouts"
+			],
+			"path": "/home/bluegray/devel/Server"
+		},
+		{
+			"path": "/home/bluegray/devel/Semaphore"
+		}
+	]
+}

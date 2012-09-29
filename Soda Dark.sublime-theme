@@ -1,0 +1,21 @@
+[
+	{
+    "class": "tab_label",
+    "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
+    "fg": [255, 225, 128]
+	},
+	{
+    "class": "tabset_control",
+    "tab_height": 28
+	},
+    {
+        "class": "tab_label",
+        "parents": [{"class": "tab_control", "attributes": ["selected"]}],
+        "fg": [255, 255, 255, 255],
+    },
+    {
+        "class": "tab_label",
+        "parents": [{"class": "tab_control", "attributes": ["selected", "dirty"]}],
+        "fg": [255, 255, 150, 255]
+    }
+]

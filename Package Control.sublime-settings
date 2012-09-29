@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1348931752,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorPicker",
+		"Compass",
+		"CSS Snippets",
+		"Dotfiles Syntax Highlighting",
+		"FileDiffs",
+		"HTML5",
+		"Package Control",
+		"SCSS",
+		"SCSS Snippets",
+		"Tag"
+	]
+}

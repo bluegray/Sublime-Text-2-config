@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Color Scheme - bluegray/bluegray.tmTheme",
+	"draw_white_space": "selection",
+	"font_face": "ProggySquareTTSZ",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme"
+}
