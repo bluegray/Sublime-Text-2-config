@@ -1,1 +1,1 @@
-My sublime User Package and config.
+My sublime Package/User and config.

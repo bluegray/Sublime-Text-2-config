@@ -8,10 +8,13 @@
 		"CSS Snippets",
 		"Dotfiles Syntax Highlighting",
 		"FileDiffs",
+		"Git",
 		"HTML5",
 		"Package Control",
 		"SCSS",
 		"SCSS Snippets",
-		"Tag"
+		"SublimeREPL",
+		"Tag",
+		"UberSelection"
 	]
 }

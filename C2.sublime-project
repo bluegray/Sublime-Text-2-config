@@ -6,6 +6,7 @@
 			[
 				".lein*",
 				".#*",
+				"#*",
 				"*.sublime-workspace",
 				".emacs*"
 			],
@@ -21,6 +22,7 @@
 			[
 				".lein*",
 				".#*",
+				"#*",
 				"*.sublime-workspace",
 				".emacs*"
 			],
@@ -36,6 +38,7 @@
 			[
 				".lein*",
 				".#*",
+				"#*",
 				"*.sublime-workspace",
 				".emacs*"
 			],
@@ -51,6 +54,7 @@
 			[
 				".lein*",
 				".#*",
+				"#*",
 				"*.sublime-workspace",
 				".emacs*"
 			],
