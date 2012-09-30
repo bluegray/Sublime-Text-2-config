@@ -8,9 +8,8 @@
 		"Vintage"
 	],
 	"rulers":
-	[
-		80
-	],
+	[80, 100],
 	"soda_classic_tabs": true,
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark.sublime-theme",
+	"highlight_line": true
 }

@@ -11,7 +11,13 @@
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-        "fg": [255, 255, 255, 255],
+        "fg": [255, 255, 255, 255]
+    },
+        {
+        "class": "tab_control",
+        "settings": ["soda_classic_tabs"],
+        "attributes": ["selected"],
+        "layer0.texture": "User/Theme - Soda/Soda Dark/classic/tab-active-lighter.png"
     },
     {
         "class": "tab_label",
