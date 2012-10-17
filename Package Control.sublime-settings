@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1349025822,
+	"auto_upgrade_last_run": 1350389459,
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"BracketHighlighter",
 		"ColorPicker",
 		"Compass",

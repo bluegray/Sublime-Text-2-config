@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"rc",
-		"fstab"
+		"fstab",
+		"autostart"
 	]
 }

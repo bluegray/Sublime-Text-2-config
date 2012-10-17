@@ -8,12 +8,15 @@
 				".#*",
 				"#*",
 				"*.sublime-workspace",
-				".emacs*"
+				".emacs*",
+				".editorconfig"
 			],
 			"folder_exclude_patterns":
 			[
 				"target",
-				"checkouts"
+				"checkouts",
+				".lein*",
+				".sass*"
 			],
 			"path": "/home/bluegray/devel/C2"
 		},
@@ -56,7 +59,8 @@
 				".#*",
 				"#*",
 				"*.sublime-workspace",
-				".emacs*"
+				".emacs*",
+				"*~"
 			],
 			"folder_exclude_patterns":
 			[
