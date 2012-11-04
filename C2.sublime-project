@@ -71,18 +71,6 @@
 		},
 		{
 			"path": "/home/bluegray/devel/Semaphore"
-		},
-		{
-			"path": "/home/bluegray/.themes/bluegray"
-		},
-		{
-			"path": "/home/bluegray/.themes/delorean-dark/gtk-3.0"
-		},
-		{
-			"path": "/home/bluegray/devel/gtkparasite"
-		},
-		{
-			"path": "/home/bluegray/.fontconfig"
 		}
 	]
 }
