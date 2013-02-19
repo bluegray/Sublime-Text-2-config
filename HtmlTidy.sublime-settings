@@ -1,1 +1,4 @@
-{ "indent-spaces": 2 }
+{
+	"indent-spaces": 2,
+	"clean": true
+}

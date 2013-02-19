@@ -42,6 +42,7 @@
 				".lein*",
 				".#*",
 				"#*",
+				"*~",
 				"*.sublime-workspace",
 				".emacs*"
 			],
@@ -70,7 +71,61 @@
 			"path": "/home/bluegray/devel/Server"
 		},
 		{
+			"file_exclude_patterns":
+			[
+				".lein*",
+				".#*",
+				"#*",
+				"*~",
+				"*.sublime-workspace",
+				".emacs*"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				"checkouts",
+				"logs"
+			],
+			"path": "/home/bluegray/devel/Worker"
+		},
+		{
 			"path": "/home/bluegray/devel/Semaphore"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".lein*",
+				".#*",
+				"#*",
+				"*~",
+				"*.sublime-workspace",
+				".emacs*"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				"checkouts",
+				"logs"
+			],
+			"path": "/home/bluegray/devel/Semaphore2"
+		},
+		{
+			"path": "/home/bluegray/devel/C2-Resources"
+		},
+		{
+			"path": "/home/bluegray/devel/cognician-servers"
+		},
+		{
+			"path": "/home/bluegray/devel/Cogbot"
+		},
+		{
+			"path": "/home/bluegray/tmp"
+		},
+		{
+			"path": "/home/bluegray/devel/Cogs"
+		},
+		{
+			"path": "/home/bluegray/devel/hiccup/src/hiccup"
 		}
 	]
 }
