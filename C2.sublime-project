@@ -89,6 +89,16 @@
 			"path": "/home/bluegray/devel/Worker"
 		},
 		{
+			"path": "/home/bluegray/devel/Builder"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				".sass*"
+			],
+			"path": "/home/bluegray/devel/Resources"
+		},
+		{
 			"path": "/home/bluegray/devel/Semaphore"
 		},
 		{
@@ -110,7 +120,10 @@
 			"path": "/home/bluegray/devel/Semaphore2"
 		},
 		{
-			"path": "/home/bluegray/devel/C2-Resources"
+			"path": "/home/bluegray/devel/LeadershipAcceleratorSite"
+		},
+		{
+			"path": "/home/bluegray/devel/Cogs"
 		},
 		{
 			"path": "/home/bluegray/devel/cognician-servers"
@@ -119,13 +132,7 @@
 			"path": "/home/bluegray/devel/Cogbot"
 		},
 		{
-			"path": "/home/bluegray/tmp"
-		},
-		{
-			"path": "/home/bluegray/devel/Cogs"
-		},
-		{
-			"path": "/home/bluegray/devel/hiccup/src/hiccup"
+			"path": "/home/bluegray/devel/octo"
 		}
 	]
 }

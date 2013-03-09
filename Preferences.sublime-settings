@@ -16,5 +16,15 @@
 		100
 	],
 	"soda_classic_tabs": true,
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark.sublime-theme",
+
+    // Valid values are "smooth", "phase", "blink", "wide" and "solid".
+    "caret_style": "phase",
+
+    // Set to false to disable underlining the brackets surrounding the caret
+    "match_brackets": true,
+
+    // Set to false if you'd rather only highlight the brackets when the caret is
+    // next to one
+    "match_brackets_content": false
 }
