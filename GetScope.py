@@ -22,5 +22,5 @@ class GetSelectionScopeCommand(sublime_plugin.TextCommand):
         sel = self.view.sel()
         if len(sel) > 0:
             msg = self.view.scope_name(sel[0].begin())
-            #sublime.error_message(msg)
+            self.view.set_status("Scope", "Scope: " + msg + " ::   ")
             sublime.set_clipboard(mkxml(msg))

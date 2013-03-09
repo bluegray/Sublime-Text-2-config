@@ -6,5 +6,5 @@
 	"round_scope" : "brackethighlight",
 	"square_scope": "brackethighlight",
 	"angle_scope" : "brackethighlight",
-	"tag_scope"   : "brackethighlight"
+	"tag_scope"   : "bracketHighlightTag"
 }
