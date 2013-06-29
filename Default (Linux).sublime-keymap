@@ -1,8 +1,38 @@
 [
-	{ "keys": ["shift+tab"], "command": "reindent"},
-	{ "keys": ["alt+q"], "command": "reindent", "args": {"single_line": false}},
-	{ "keys": ["f9"], "command": "get_selection_scope"},
-	{ "keys": ["ctrl+shift+backspace"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
-	{ "keys": ["ctrl+comma", "w"], "command": "delete_trailing_spaces" },
-	{ "keys": ["ctrl+alt+space"], "command": "expand_selection", "args": {"to": "scope"} }
+{ "keys": ["shift+tab"], "command": "reindent"},
+{ "keys": ["alt+q"], "command": "reindent", "args": {"single_line": false}},
+{ "keys": ["f9"], "command": "get_selection_scope"},
+{ "keys": ["ctrl+shift+backspace"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+{ "keys": ["ctrl+comma", "w"], "command": "delete_trailing_spaces" },
+{ "keys": ["ctrl+alt+space"], "command": "expand_selection", "args": {"to": "scope"} },
+{ "keys": ["ctrl+p", "ctrl+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+{ "keys": ["alt+ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+{ "keys": ["ctrl+comma", "e"], "command": "encode_html_entities" },
+{ "keys": ["ctrl+x", "ctrl+s"], "command": "save", "context":
+		[
+			{ "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+		] },
+ 
+////
+//// Bargafe & slurpage
+{
+	"keys": ["ctrl+right"],
+	"command": "paredit_forward_slurp_sexp",
+	"context": [{"key": "should_paredit"}]
+}
+,{
+	"keys": ["ctrl+left"],
+	"command": "paredit_forward_barf_sexp",
+	"context": [{"key": "should_paredit"}]
+}
+,{
+	"keys": ["ctrl+alt+k"],
+	"command": "paredit_forward_kill_word",
+	"context": [{"key": "should_paredit"}]
+}
+,{
+	"keys": ["ctrl+k"],
+	"command": "paredit_kill_expression",
+	"context": [{"key": "should_paredit"}]
+}
 ]

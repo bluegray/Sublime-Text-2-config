@@ -9,7 +9,9 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"SASS"
+		"SublimeREPL",
+		"SASS",
+		"HtmlTidy"
 	],
 	"match_brackets": true,
 	"match_brackets_content": true,

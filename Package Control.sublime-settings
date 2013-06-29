@@ -15,7 +15,10 @@
 		"Package Control",
 		"SCSS",
 		"SCSS Snippets",
+		"SublimeLinter",
 		"SublimeREPL",
-		"Tag"
+		"Sublimerge",
+		"Tag",
+		"Unicode Character Highlighter"
 	]
 }

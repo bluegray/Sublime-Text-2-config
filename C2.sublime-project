@@ -71,24 +71,6 @@
 			"path": "/home/bluegray/devel/Server"
 		},
 		{
-			"file_exclude_patterns":
-			[
-				".lein*",
-				".#*",
-				"#*",
-				"*~",
-				"*.sublime-workspace",
-				".emacs*"
-			],
-			"folder_exclude_patterns":
-			[
-				"target",
-				"checkouts",
-				"logs"
-			],
-			"path": "/home/bluegray/devel/Worker"
-		},
-		{
 			"path": "/home/bluegray/devel/Builder"
 		},
 		{
@@ -99,40 +81,25 @@
 			"path": "/home/bluegray/devel/Resources"
 		},
 		{
-			"path": "/home/bluegray/devel/Semaphore"
-		},
-		{
-			"file_exclude_patterns":
-			[
-				".lein*",
-				".#*",
-				"#*",
-				"*~",
-				"*.sublime-workspace",
-				".emacs*"
-			],
-			"folder_exclude_patterns":
-			[
-				"target",
-				"checkouts",
-				"logs"
-			],
-			"path": "/home/bluegray/devel/Semaphore2"
-		},
-		{
-			"path": "/home/bluegray/devel/LeadershipAcceleratorSite"
-		},
-		{
 			"path": "/home/bluegray/devel/Cogs"
-		},
-		{
-			"path": "/home/bluegray/devel/cognician-servers"
 		},
 		{
 			"path": "/home/bluegray/devel/Cogbot"
 		},
 		{
 			"path": "/home/bluegray/devel/octo"
+		},
+		{
+			"path": "/home/bluegray/devel/cogs-caps"
+		},
+		{
+			"path": "/home/bluegray/devel/sidebar-css"
+		},
+		{
+			"path": "/home/bluegray/devel/lientjie/wp-content/themes/lientjie"
+		},
+		{
+			"path": "/home/bluegray/devel/Server/src/cognician/server/views/templates"
 		}
 	]
 }
