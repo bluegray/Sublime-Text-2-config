@@ -1,24 +1,25 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"ColorPicker",
-		"CSS Snippets",
+		"CSS Color Converter",
+		"CSS Selector Reveal",
 		"Dotfiles Syntax Highlighting",
+		"Emmet Css Snippets",
 		"Git",
 		"GitGutter",
+		"Highlight-Mixed-Whitespace",
 		"HTML5",
-		"Incrementor",
-		"Insert Nums",
 		"Package Control",
 		"SCSS",
-		"SCSS Snippets",
+		"sublime-github",
 		"SublimeLinter",
 		"SublimeREPL",
 		"Sublimerge",
 		"Tag",
+		"TrailingSpaces",
 		"Unicode Character Highlighter"
 	]
 }

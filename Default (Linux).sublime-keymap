@@ -12,27 +12,11 @@
 		[
 			{ "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
 		] },
- 
-////
-//// Bargafe & slurpage
-{
-	"keys": ["ctrl+right"],
-	"command": "paredit_forward_slurp_sexp",
-	"context": [{"key": "should_paredit"}]
-}
-,{
-	"keys": ["ctrl+left"],
-	"command": "paredit_forward_barf_sexp",
-	"context": [{"key": "should_paredit"}]
-}
-,{
-	"keys": ["ctrl+alt+k"],
-	"command": "paredit_forward_kill_word",
-	"context": [{"key": "should_paredit"}]
-}
-,{
-	"keys": ["ctrl+k"],
-	"command": "paredit_kill_expression",
-	"context": [{"key": "should_paredit"}]
-}
+{ "keys": ["ctrl+alt+c"], "command": "colorconvert" },
+
+//// Barfage & slurpage for paredit
+{ "keys": ["ctrl+right"], "command": "paredit_forward_slurp_sexp", "context": [{"key": "should_paredit"}] },
+{ "keys": ["ctrl+left"], "command": "paredit_forward_barf_sexp", "context": [{"key": "should_paredit"}] },
+{ "keys": ["ctrl+alt+k"], "command": "paredit_forward_kill_word", "context": [{"key": "should_paredit"}] },
+{ "keys": ["ctrl+k"], "command": "paredit_kill_expression", "context": [{"key": "should_paredit"}] }
 ]
