@@ -14,6 +14,11 @@
 		] },
 { "keys": ["ctrl+alt+c"], "command": "colorconvert" },
 
+//// Git
+{ "keys": ["alt+x", "s"], "command": "git_status" },
+{ "keys": ["alt+x", "c"], "command": "git_commit" },
+{ "keys": ["alt+x", "a"], "command": "git_add" },
+
 //// Barfage & slurpage for paredit
 { "keys": ["ctrl+right"], "command": "paredit_forward_slurp_sexp", "context": [{"key": "should_paredit"}] },
 { "keys": ["ctrl+left"], "command": "paredit_forward_barf_sexp", "context": [{"key": "should_paredit"}] },
