@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - bluegray/bluegray.tmTheme",
+	"color_scheme": "Packages/User/Color Scheme - bluegray/bluegray.tmTheme",
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "ProggySquareTTSZ",
